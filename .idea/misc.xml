@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_creams.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_foundation.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_lip_balm.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_lip_stick.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_mascara.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_oils.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_ointments.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_shampoo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_shower_gel.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_solutions.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/activity_tablets.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/layout/item_view.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/kamal/Downloads/AZPharmacy/app/src/main/res/menu/menu.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

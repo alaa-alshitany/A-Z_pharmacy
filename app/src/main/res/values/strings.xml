@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name" translatable="false">A-Z Pharmacy</string>
+
+    <string name="Sign_up" translatable="false">Sign Up</string>
+    <string name="Email" translatable="false">email</string>
+    <string name="First_Name" translatable="false">First Name</string>
+    <string name="Last_Name" translatable="false">Last Name</string>
+    <string name="confirm" translatable="false">Confirm</string>
+    <string name="Login" translatable="false">Login</string>
+    <string name="Medicine" translatable="false">Medicine</string>
+    <string name="Make_Up" translatable="false">Make Up</string>
+    <string name="SkinCare" translatable="false">SkinCare</string>
+    <string name="Sections" translatable="false">Sections</string>
+    <string name="Drugs" translatable="false">Drugs</string>
+    <string name="Injections" translatable="false">Injections</string>
+    <string name="Creams" translatable="false">Creams</string>
+    <string name="Oils" translatable="false">Oils</string>
+    <string name="Shampoo" translatable="false">Shampoo</string>
+    <string name="Foundation" translatable="false">Foundation</string>
+    <string name="Lip_Stick" translatable="false">Lip Stick</string>
+    <string name="Mascara" translatable="false">Mascara</string>
+    <string name="Drugs_section" translatable="false">Drugs Section</string>
+    <string name="Penicillin" translatable="false">Penicillin</string>
+    <string name="Insulin" translatable="false">Insulin</string>
+    <string name="Asprin" translatable="false">Asprin</string>
+    <string name="Morphine" translatable="false">Morphine</string>
+    <string name="Salvarsan" translatable="false">Salvarsan</string>
+    <string name="Buy" translatable="false">Buy</string>
+    <string name="Injections_section" translatable="false">Injections Section</string>
+    <string name="Syntocinon" translatable="false">Syntocinon</string>
+    <string name="Hostacortine" translatable="false">Hostacortine</string>
+    <string name="Heparin" translatable="false">Heparin</string>
+    <string name="Duricaf" translatable="false">Duricaf</string>
+    <string name="Cefotax" translatable="false">Cefotax</string>
+    <string name="Danset" translatable="false">Danset</string>
+    <string name="Serebrolysin" translatable="false">Serebrolysin</string>
+    <string name="Bledex" translatable="false">Bledex</string>
+    <string name="Miacalcic" translatable="false">Miacalcic</string>
+    <string name="Examide" translatable="false">Examide</string>
+    <string name="Creams_section" translatable="false">Creams Section</string>
+    <string name="Augustinus_Bader" translatable="false">Augustinus Bader</string>
+    <string name="Olay" translatable="false">Olay</string>
+    <string name="The_Ordinary" translatable="false">The Ordinary</string>
+    <string name="Paula_s_Choice_Skincare" translatable="false">Paula\'s Choice Skincare</string>
+    <string name="Neutrogena" translatable="false">Neutrogena</string>
+    <string name="Oils_section" translatable="false">Oils Section</string>
+    <string name="Jojoba_oil" translatable="false">Jojoba Oil</string>
+    <string name="Jamaican_Black_Castor_Oil" translatable="false">Jamaican Black Castor Oil</string>
+    <string name="Marula_Oil" translatable="false">Marula Oil</string>
+    <string name="Briogeo_Oil" translatable="false">Briogeo</string>
+    <string name="Besline" translatable="false">Besline</string>
+    <string name="SunSilk" translatable="false">SunSilk</string>
+    <string name="Max_Factor" translatable="false">Max Factor</string>
+    <string name="Mac" translatable="false">Mac</string>
+    <string name="Lip_Stick_section" translatable="false">LIPSTICK Section</string>
+    <string name="Oreflaim" translatable="false">Oreflaim</string>
+    <string name="Maybelline" translatable="false">Maybelline</string>
+    <string name="Payment" translatable="false">Payment</string>
+    <string name="Cash" translatable="false">Cash</string>
+    <string name="VISA" translatable="false">VISA</string>
+    <string name="ointments_section" translatable="false">ointments section</string>
+    <string name="solutions_section" translatable="false">solutions</string>
+    <string name="Move" translatable="false">Move</string>
+    <string name="Voltarine" translatable="false">Voltarine</string>
+    <string name="Algazon" translatable="false">Algazon</string>
+    <string name="Betaderm" translatable="false">Betaderm</string>
+    <string name="Daktarine" translatable="false">Daktarine</string>
+    <string name="ointments" translatable="false">ointments</string>
+    <string name="solutions" translatable="false">solutions</string>
+    <string name="Baby" translatable="false">Baby</string>
+    <string name="imageView" translatable="false">imageView</string>
+    <string name="lipBalm" translatable="false">lipBalm</string>
+    <string name="lipBalm_Section" translatable="false">lipBalm Section</string>
+    <string name="Mascara_Section" translatable="false">Mascara Section</string>
+    <string name="Serum" translatable="false">Serum</string>
+    <string name="Serum_section" translatable="false">Serum Section</string>
+    <string name="Shampoo_section" translatable="false">Shampoo Section</string>
+    <string name="Dove" translatable="false">Dove</string>
+    <string name="Tresemme" translatable="false">Tresemme</string>
+    <string name="Clear" translatable="false">Clear</string>
+    <string name="Vitamine_C" translatable="false">Vitamine C</string>
+    <string name="Neutrogena_Haydrating" translatable="false">Neutrogena Haydrating</string>
+    <string name="Glow_Recipe_Avocado_Ceramide" translatable="false">Glow Recipe Avocado Ceramide</string>
+    <string name="Shower_Gel" translatable="false">Shower Gel</string>
+    <string name="ShampooBaby" translatable="false">Shampoo Baby</string>
+    <string name="Nevia" translatable="false">Nevia</string>
+    <string name="Baby_Cream" translatable="false">Baby Cream</string>
+    <string name="Bandollen" translatable="false">Bandollen</string>
+    <string name="Johnson" translatable="false">Johnson</string>
+
+    <string name="Last_name">Last Name</string>
+    <string name="First_name">First Name</string>
+    <string name="Confirm_password">Confirm password</string>
+    <string name="Phone">Phone Number</string>
+    <string name="Password">password</string>
+    <string name="Baby_section">Baby Section</string>
+</resources>
